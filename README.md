@@ -158,7 +158,7 @@ Si ejecuto ahora este comando
 http://localhost/rce.php?cmd=ping 8.8.8.8; rm -rf /
 ```
 
-![](imagenes/mitagaciones4.png)
+![](imagenes/mitigaciones4.png)
 
 Deshabilitar shell_exec() en PHP
 
