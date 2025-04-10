@@ -124,7 +124,7 @@ Ejemplo de pwd:
 
 Sin embargo, comandos no permitido:
 
-![)(imagenes/mitigaciones3.png)
+![](imagenes/mitigaciones3.png)
 
 ### Ejecutar Comandos con Escapes Seguros
 
